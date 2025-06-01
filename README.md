@@ -3,7 +3,8 @@ The era of the Internet of Things (IoT) introduces new technologies alongside ch
 Simultaneously, it maintains adequate throughput by minimizing latency per round using a sponge-based construction in authenticated mode. The hardware implementation is demonstrated on a Field-Programmable Gate Array (FPGA) platform, specifically targeting low-power kits to emulate resource-constrained IoT environments. 
 Moreover, the Application-Specific Integrated Circuit (ASIC) implementation of Ascon-128 using 16nm TSMC technology demonstrates a cutting-edge advancement for IoT applications, offering promising potential for future deployment with FinFET technology.
 
-	
+<img width="890" alt="1" src="https://github.com/user-attachments/assets/0a34d2a9-37cb-4425-8e8d-6ee06da969c2" />
+
 **Our Contribution**
 
 • We propose a balanced design targeting low area, low power, and reasonable clock frequency.
