@@ -5,6 +5,11 @@ Moreover, the Application-Specific Integrated Circuit (ASIC) implementation of A
 
 <img width="890" alt="1" src="https://github.com/user-attachments/assets/0a34d2a9-37cb-4425-8e8d-6ee06da969c2" />
 
+**Proposed Ascon Core Architecture**
+
+<img width="1074" alt="4" src="https://github.com/user-attachments/assets/cfd1187e-c6e8-441c-9e9c-3e20cba22ce1" />
+
+
 **Our Contribution**
 
 • We propose a balanced design targeting low area, low power, and reasonable clock frequency.
