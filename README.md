@@ -11,7 +11,7 @@ Moreover, the Application-Specific Integrated Circuit (ASIC) implementation of A
 
 **Verification**
 
-! width="890"[image](https://github.com/user-attachments/assets/ecbc6160-5794-46b0-8587-e08dca3a6ef5)
+![image](https://github.com/user-attachments/assets/ecbc6160-5794-46b0-8587-e08dca3a6ef5)
 
 
 
