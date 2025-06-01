@@ -5,9 +5,14 @@ Moreover, the Application-Specific Integrated Circuit (ASIC) implementation of A
 
 	
 **Our Contribution**
+
 • We propose a balanced design targeting low area, low power, and reasonable clock frequency.
+
 • We implement our design using advanced 16 nm FinFET technology to match modern trends.
+
 • We reduce clock cycles by using a serialized architecture with a single S-box in the permutation phase.
+
 • On Lattice iCE40 FPGA, we achieve 200 MHz with only 418 FFs and 582 LUTs.
+
 • On TSMC 16-nm technology, we reach 100 MHz with an area of 1.341 KGE and 0.254 mW power consumption.
 
