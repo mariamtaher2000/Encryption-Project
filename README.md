@@ -10,7 +10,7 @@ Moreover, the Application-Specific Integrated Circuit (ASIC) implementation of A
 <img width="1074" alt="4" src="https://github.com/user-attachments/assets/cfd1187e-c6e8-441c-9e9c-3e20cba22ce1" />
 
 **Verification**
-![image](https://github.com/user-attachments/assets/0ead6ad3-3c2b-4ccb-94ae-5b3639515987)
+![image](https://github.com/user-attachments/assets/ecbc6160-5794-46b0-8587-e08dca3a6ef5)
 
 
 
