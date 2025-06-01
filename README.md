@@ -13,9 +13,22 @@ Moreover, the Application-Specific Integrated Circuit (ASIC) implementation of A
 
 ![image](https://github.com/user-attachments/assets/ecbc6160-5794-46b0-8587-e08dca3a6ef5)
 
+**Simulation**
+
+![image](https://github.com/user-attachments/assets/64a4c087-9e1a-4829-899e-a34d6194282a)
+
+**Finite State Machine**
+
+<img width="1116" alt="5" src="https://github.com/user-attachments/assets/9678fddf-f7b3-4da6-94c0-93159d8c78f0" />
+
+**Layout**
+
+![image](https://github.com/user-attachments/assets/29bd8633-226c-4489-b57f-3a6e793e285d)
 
 
-**Our Contribution**
+
+
+**Contribution**
 
 • We propose a balanced design targeting low area, low power, and reasonable clock frequency.
 
